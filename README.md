@@ -20,7 +20,7 @@ Interactive Shopping Assistant is a web-based tool designed to help users track 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/interactive-shopping-assistant.git
+   git clone https:https://github.com/Aana-1025/Your-Shopping-Assistant.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -52,4 +52,4 @@ Interactive Shopping Assistant is a web-based tool designed to help users track 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any issues or feature requests, feel free to raise an issue or reach out at your.email@example.com.
+For any issues or feature requests, feel free to raise an issue or reach out at antarauatne11@gmail.com.
